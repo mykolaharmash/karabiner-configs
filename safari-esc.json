@@ -2,7 +2,7 @@
   "title": "Don't exit fullscreen when pressing ESC in Safari",
   "rules": [
     {
-      "description": "Remap ESC to Option-ESC in Safari only",
+      "description": "Remap ESC to NONE in Safari only",
       "manipulators": [
         {
           "from": {
